@@ -1,2 +1,6 @@
 Build/
 tags/
+**.obj
+**.pdb
+**.exe
+**.ilk
